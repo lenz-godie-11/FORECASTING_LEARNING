@@ -1,0 +1,8 @@
+Comparison,mean_diff_pp,wins,better,p_value
+XGBoost direct (multi-horizon) vs XGBoost recursive (current production),-1.5,11/14,XGBoost direct (multi-horizon),0.058
+XGBoost direct (multi-horizon) vs Theta (period 7),3.2,5/14,Theta (period 7),0.0676
+XGBoost direct (multi-horizon) vs Weekday mean (8w),2.91,4/14,Weekday mean (8w),0.0419
+XGBoost recursive (current production) vs Theta (period 7),4.7,3/14,Theta (period 7),0.0134
+XGBoost recursive (current production) vs Weekday mean (8w),4.41,4/14,Weekday mean (8w),0.0166
+Theta (period 7) vs Weekday mean (8w),-0.29,8/14,Theta (period 7),0.6257
+Theta (period 7) vs Seasonal naive (7d),-1.99,13/14,Theta (period 7),0.0017

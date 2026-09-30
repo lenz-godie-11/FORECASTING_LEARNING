@@ -1,0 +1,6 @@
+MAPE threshold,XGB_direct,XGB_recursive,Theta_p7,ETS_damped_seas7,Weekday8,SeasNaive,LastValue
+>15%,1,1,29,29,1,15,1
+>18%,29,29,113,43,113,29,1
+>20%,29,43,141,141,127,113,1
+>22%,29,85,169,141,155,141,29
+>25%,155,113,never,never,never,169,99
